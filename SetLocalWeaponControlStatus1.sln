@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetLocalWeaponControlStatus1", "SetLocalWeaponControlStatus1\SetLocalWeaponControlStatus1.csproj", "{8472BB9F-DCE4-41B0-B1F7-57F139ECF730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8472BB9F-DCE4-41B0-B1F7-57F139ECF730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8472BB9F-DCE4-41B0-B1F7-57F139ECF730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8472BB9F-DCE4-41B0-B1F7-57F139ECF730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8472BB9F-DCE4-41B0-B1F7-57F139ECF730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1178154E-E32E-4439-A2D3-36A9CD82205D}
+	EndGlobalSection
+EndGlobal
